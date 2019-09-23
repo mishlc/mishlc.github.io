@@ -1,0 +1,43 @@
+body {
+  width: 80%;
+  margin: auto;
+}
+
+.topnav li {
+  display: inline;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.topnav a {
+  color: #282828;
+  text-decoration: none;
+}
+
+.leftnav {
+  font-size: 1.4em;
+  float: left;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.rightnav {
+  font-size: 1em;
+  padding-right: 1em;
+  float: right;
+  margin-top: 1.7em;
+}
+
+.rightnav a {
+  margin-right: 1em;
+}
+.rightnav a:hover {
+  color: #c71132;
+}
+
+.rightnav a.active {
+  color: #c71132;
+}
+
+.content{
+  clear: both;
+}
