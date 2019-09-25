@@ -3,14 +3,15 @@
 
 <head>
   <meta name="viewport" content="width = device-width, initial-scale = 1">
-	<link rel="stylesheet" type="text/css" href="/css/main.css">
+  	<link rel="stylesheet" type="text/css" href="/css/portfolio.css">
+
 </head>
 
 <body>
   <div class="wrapper">
     <div class="topnav">
       <ul class="leftnav">
-        <li><a href="index.html">Carolyn Shimabukuro</a></li>
+        <li><a href="#home">BRAND</a></li>
       </ul>
 
       <ul class="rightnav">
@@ -22,8 +23,7 @@
     
     <div class="content">
       <hr>
-
-
+      <a href = "https://docs.google.com/spreadsheets/d/1QRR1o2nIi2wRHbnESmgUfswUnd0y54K2RhzBR6Vb5rU/edit?usp=sharing"><p>Finance Spreadsheet</p></a>
     </div>
   </div>
 </body>

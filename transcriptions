@@ -3,14 +3,15 @@
 
 <head>
   <meta name="viewport" content="width = device-width, initial-scale = 1">
-	<link rel="stylesheet" type="text/css" href="/css/main.css">
+  <link rel="stylesheet" type="text/css" href="/css/transcriptions.css">
+
 </head>
 
 <body>
   <div class="wrapper">
     <div class="topnav">
       <ul class="leftnav">
-        <li><a href="index.html">Carolyn Shimabukuro</a></li>
+        <li><a href="#home">Carolyn Shimabukuro</a></li>
       </ul>
 
       <ul class="rightnav">
@@ -22,8 +23,13 @@
     
     <div class="content">
       <hr>
-
-
+      <h1>Transcriptions</h1>
+      <a href="[url]"><h2>Jerusalem - C. Hubert H. Parry </h2></a>
+      <p>For piano</p>
+      <a href="[url]"><h2>Greater Love Hath No Man - John Ireland</h2></a>
+      <p>For piano</p>
+      <a href="[url]"><h2>I was Glad - C. Hubert H. Parry </h2></a>
+      <p>For piano</p>
     </div>
   </div>
 </body>
