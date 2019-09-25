@@ -41,3 +41,16 @@ body {
 .content{
   clear: both;
 }
+
+a{
+  text-decoration-color: #7AB0A8;
+  color:#7AB0A8;
+}
+
+h2 {
+    font-family:"Garamond",  Garamond, Georgia, Serif;
+    text-decoration: none;
+    color: #C71132;
+p{
+  color: #261203;
+}
